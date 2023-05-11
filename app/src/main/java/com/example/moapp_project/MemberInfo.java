@@ -6,7 +6,7 @@ public class MemberInfo {
     private String phoneNumber;
     private String birthDay;
     private String address;
-
+    //우왕
     public MemberInfo(String name, String phoneNumber,String birthDay,String address){
         this.name= name;
         this.phoneNumber=phoneNumber;
