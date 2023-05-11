@@ -13,7 +13,7 @@ public class MemberInfo {
         this.birthDay=birthDay;
         this.address=address;
     }
-
+//쨘
     public String getName(){
         return this.name;
     }
